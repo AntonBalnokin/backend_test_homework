@@ -1,5 +1,6 @@
 # backend_test_homework
-README.md
-*.doc
-*.dod
 
+/README.md
+/1234
+/README
+/testtest
